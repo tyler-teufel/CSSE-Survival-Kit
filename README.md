@@ -8,14 +8,30 @@
   - [About Me](#about-me)
 - [Firstly, Git](#firstly-git)
   - [Git Resources](#git-resources)
+- [OA / Tech Interview Prep](#oa--tech-interview-prep)
+  - [Leetcode!!](#leetcode)
+  - [Kattis](#kattis)
+- [Web App Development](#web-app-development)
+  - [The languages](#the-languages)
+    - [General HTML](#general-html)
+    - [CSS \& Overall Styling](#css--overall-styling)
+    - [Typescript (!!)](#typescript-)
+    - [Javascript](#javascript)
+  - [Great Frameworks to learn](#great-frameworks-to-learn)
+  - [Portfolio Sites](#portfolio-sites)
+  - [Misc](#misc)
 - [Python Resources](#python-resources)
 - [Math Resources](#math-resources)
 - [Using ChatGPT Correctly](#using-chatgpt-correctly)
 - [AI/ML Resources](#aiml-resources)
-- [Youtube Channels](#youtube-channels)
+  - [General Resources](#general-resources)
+  - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 - [Java Resources](#java-resources)
-- [Learning Sites \& Platforms](#learning-sites--platforms)
+- [SQL Resources](#sql-resources)
+- [Youtube Channels](#youtube-channels)
+- [Learning Platforms](#learning-platforms)
 - [Great Reads](#great-reads)
+- [Generally Helpful Sites](#generally-helpful-sites)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -49,9 +65,57 @@ If you click the link below, you will be directed to a file I created with some 
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
 
+# OA / Tech Interview Prep
+
+## Leetcode!!
+
+- [Leetcode New User Reading](https://leetcode.com/discuss/study-guide/1069178/A-must-read-guide-for-new-LeetCode-users)
+- [How to get started](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
+
+## Kattis
+
+- [Kattis Problems](https://open.kattis.com/)
+- [A guide to Kattis Problems](https://mwermelinger.github.io/kattis-guide/)
+-
+
+# Web App Development
+
+## The languages
+
+### General HTML
+
+### CSS & Overall Styling
+
+- [CSS Tricks](https://css-tricks.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [A Guide to Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-
+
+### Typescript (!!)
+
+- [React's Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+
+### Javascript
+
+-
+
+## Great Frameworks to learn
+
+- [Getting Started with Next.js](https://nextjs.org/learn/react-foundations?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
+-
+
+## Portfolio Sites
+
+- [25 Cool Example Sites](https://www.hostinger.com/tutorials/web-developer-portfolio)
+-
+
+## Misc
+
+- [Secrets in Node.js Apps](https://medium.com/codait/environment-variables-or-keeping-your-secrets-secret-in-a-node-js-app-99019dfff716)
+
 # Python Resources
 
-Coming Soon...
+- [Webscraping Tutorial 2024](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 
 # Math Resources
 
@@ -59,24 +123,40 @@ Coming Soon...
 
 # Using ChatGPT Correctly
 
-Coming Soon...
+- [Open AI Cookbook](https://cookbook.openai.com/)
+-
 
 # AI/ML Resources
 
-Coming Soon...
+## General Resources
 
-# Youtube Channels
+- [Geeks for Geeks 100 days of ML](https://www.geeksforgeeks.org/100-days-of-machine-learning/)
 
-Coming Soon...
+## Natural Language Processing (NLP)
+
+- [NLTK Book](https://www.nltk.org/book/)
 
 # Java Resources
 
 Coming Soon...
 
-# Learning Sites & Platforms
+# SQL Resources
+
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
+
+# Youtube Channels
+
+Coming Soon...
+
+# Learning Platforms
 
 Coming Soon...
 
 # Great Reads
 
 Coming Soon...
+
+# Generally Helpful Sites
+
+- [Find DevTools](https://finddev.tools/)
+  - This website quite literally has every resource you could possible image or want as a developer / engineer. Quite honestly I forgot I even had this bookmarked until I started working on this list, be sure to go check it out!

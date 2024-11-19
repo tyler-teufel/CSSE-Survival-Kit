@@ -31,7 +31,7 @@ The links here go to the official documentation sites, as well as to other place
 - [GitHub Docs (About GitHub and Git)](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 
 - [W3 Schools Git Tutorial](https://www.w3schools.com/git/)
-
+- [GitHub's Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 - [Interactive Git Branching Learning Tool](https://learngitbranching.js.org/?locale=en_US)
 
   - This site is a super cool way to screw around with git branching without the headache of fixing mistakes in the actual repo- highly recommend!
