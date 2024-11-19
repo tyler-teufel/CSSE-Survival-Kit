@@ -3,14 +3,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
 - [CSSE Survival Kit](#csse-survival-kit)
 - [Overview](#overview)
   - [About Me](#about-me)
 - [Firstly, Git](#firstly-git)
-  - [So I know GitHub, but why git?](#so-i-know-github-but-why-git)
-  - [Resources](#resources)
+  - [Git Resources](#git-resources)
+- [Python Resources](#python-resources)
+- [Math Resources](#math-resources)
+- [Using ChatGPT Correctly](#using-chatgpt-correctly)
+- [AI/ML Resources](#aiml-resources)
+- [Youtube Channels](#youtube-channels)
+- [Java Resources](#java-resources)
+- [Learning Sites \& Platforms](#learning-sites--platforms)
+- [Great Reads](#great-reads)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -28,7 +33,7 @@ The only knowledge I came to Auburn with was whatever I was able to learn in AP 
 
 # Firstly, Git
 
-## So I know GitHub, but why git?
+**So I know GitHub, but why git?**
 
 One of the most crucial skills I learned both in class and at my internships was the value of version control. Learning git can empower you to really begin to hit the ground running with your own projects, both for the sake of making them accessible via a remote repository site like GitHub, as well as for learning to make incremental changes in stages using branching for personal and collaborative work.
 
@@ -36,10 +41,42 @@ Git is without a doubt one of the most crucial skills to have when you go into t
 
 Even if you feel like you know GitHub, its crucial to make sure you know Git. Thats how I was a few years ago.
 
-## Resources
+## Git Resources
 
 If you click the link below, you will be directed to a file I created with some concise instructions on where to install Git on your machine, as well as links to some really helpful videos and websites (including the official git guide) to help you get ramped up!
 
 **[Important Git Links](Version%20Control/Git/git-links.md)**
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
+
+# Python Resources
+
+Coming Soon...
+
+# Math Resources
+
+Coming Soon...
+
+# Using ChatGPT Correctly
+
+Coming Soon...
+
+# AI/ML Resources
+
+Coming Soon...
+
+# Youtube Channels
+
+Coming Soon...
+
+# Java Resources
+
+Coming Soon...
+
+# Learning Sites & Platforms
+
+Coming Soon...
+
+# Great Reads
+
+Coming Soon...
