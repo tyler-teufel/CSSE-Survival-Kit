@@ -11,6 +11,7 @@
 - [OA / Tech Interview Prep](#oa--tech-interview-prep)
   - [Leetcode!!](#leetcode)
   - [Kattis](#kattis)
+  - [Other Sites](#other-sites)
 - [Web App Development](#web-app-development)
   - [The languages](#the-languages)
     - [General HTML](#general-html)
@@ -28,6 +29,7 @@
   - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 - [Java Resources](#java-resources)
 - [SQL Resources](#sql-resources)
+- [C# and .NET Resources](#c-and-net-resources)
 - [Youtube Channels](#youtube-channels)
 - [Learning Platforms](#learning-platforms)
 - [Great Reads](#great-reads)
@@ -78,11 +80,20 @@ I cannot stress the importance of git enough, please take your time to learn and
 - [A guide to Kattis Problems](https://mwermelinger.github.io/kattis-guide/)
 -
 
+## Other Sites
+
+- [FreeCodeCamp: Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
+
 # Web App Development
 
 ## The languages
 
 ### General HTML
+
+- [w3Schools HTML](https://www.w3schools.com/htmL/default.asp)
+- [Interactive HTML Cheatsheet](https://htmlcheatsheet.com/)
+- [Geeks For Geeks HTML Cheatsheet](https://www.geeksforgeeks.org/html-cheat-sheet/)
+- [HTML.com Cheatsheet PDF](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
 
 ### CSS & Overall Styling
 
@@ -94,6 +105,7 @@ I cannot stress the importance of git enough, please take your time to learn and
 ### Typescript (!!)
 
 - [React's Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [From Javascript to Typescript](https://www.learningtypescript.com/from-javascript-to-typescript#:~:text=Learning%20TypeScript%20%27s%20From%20JavaScript%20to%20TypeScript%20chapter,precise%20documentation%2C%20and%20stronger%20developer%20tooling%20More%20items)
 
 ### Javascript
 
@@ -112,6 +124,9 @@ I cannot stress the importance of git enough, please take your time to learn and
 ## Misc
 
 - [Secrets in Node.js Apps](https://medium.com/codait/environment-variables-or-keeping-your-secrets-secret-in-a-node-js-app-99019dfff716)
+- [Prisma Object Relational Manager (ORM)](https://www.prisma.io/)
+- [Drizzle Object Relational Manager (ORM)](https://orm.drizzle.team/docs/overview)
+- [tRPC - Typescript Library for Leveraging Type Safety](https://trpc.io/)
 
 # Python Resources
 
@@ -131,6 +146,7 @@ Coming Soon...
 ## General Resources
 
 - [Geeks for Geeks 100 days of ML](https://www.geeksforgeeks.org/100-days-of-machine-learning/)
+- [FreeCodeCamp: Python for ML](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 ## Natural Language Processing (NLP)
 
@@ -143,6 +159,11 @@ Coming Soon...
 # SQL Resources
 
 - [MySQL Tutorial](https://www.mysqltutorial.org/)
+- [FreeCodeCamp: Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)
+
+# C# and .NET Resources
+
+Coming Soon...
 
 # Youtube Channels
 
@@ -160,3 +181,5 @@ Coming Soon...
 
 - [Find DevTools](https://finddev.tools/)
   - This website quite literally has every resource you could possible image or want as a developer / engineer. Quite honestly I forgot I even had this bookmarked until I started working on this list, be sure to go check it out!
+- [Medium Articles](https://medium.com/)
+- [Stack Overflow](https://stackoverflow.com/)
