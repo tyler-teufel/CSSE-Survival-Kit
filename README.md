@@ -8,14 +8,34 @@
   - [About Me](#about-me)
 - [Firstly, Git](#firstly-git)
   - [Git Resources](#git-resources)
+  - [Demos](#demos)
+- [OA / Tech Interview Prep](#oa--tech-interview-prep)
+  - [Leetcode!!](#leetcode)
+  - [Kattis](#kattis)
+  - [Other Sites](#other-sites)
+- [Web App Development](#web-app-development)
+  - [The languages](#the-languages)
+    - [General HTML](#general-html)
+    - [CSS \& Overall Styling](#css--overall-styling)
+    - [Typescript (!!)](#typescript-)
+    - [Javascript](#javascript)
+  - [Great Frameworks to learn](#great-frameworks-to-learn)
+  - [Portfolio Sites](#portfolio-sites)
+  - [Misc](#misc)
 - [Python Resources](#python-resources)
+  - [Demos](#demos-1)
 - [Math Resources](#math-resources)
 - [Using ChatGPT Correctly](#using-chatgpt-correctly)
 - [AI/ML Resources](#aiml-resources)
-- [Youtube Channels](#youtube-channels)
+  - [General Resources](#general-resources)
+  - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 - [Java Resources](#java-resources)
-- [Learning Sites \& Platforms](#learning-sites--platforms)
+- [SQL Resources](#sql-resources)
+- [C# and .NET Resources](#c-and-net-resources)
+- [Youtube Channels](#youtube-channels)
+- [Learning Platforms](#learning-platforms)
 - [Great Reads](#great-reads)
+- [Generally Helpful Sites](#generally-helpful-sites)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -49,7 +69,80 @@ If you click the link below, you will be directed to a file I created with some 
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
 
+## Demos
+
+Coming Soon...
+
+# OA / Tech Interview Prep
+
+## Leetcode!!
+
+- [Leetcode New User Reading](https://leetcode.com/discuss/study-guide/1069178/A-must-read-guide-for-new-LeetCode-users)
+- [How to get started](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
+
+## Kattis
+
+- [Kattis Problems](https://open.kattis.com/)
+- [A guide to Kattis Problems](https://mwermelinger.github.io/kattis-guide/)
+-
+
+## Other Sites
+
+- [FreeCodeCamp: Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
+
+# Web App Development
+
+## The languages
+
+### General HTML
+
+- [w3Schools HTML](https://www.w3schools.com/htmL/default.asp)
+- [Interactive HTML Cheatsheet](https://htmlcheatsheet.com/)
+- [Geeks For Geeks HTML Cheatsheet](https://www.geeksforgeeks.org/html-cheat-sheet/)
+- [HTML.com Cheatsheet PDF](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
+
+### CSS & Overall Styling
+
+- [CSS Tricks](https://css-tricks.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [A Guide to Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-
+
+### Typescript (!!)
+
+- [React's Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [From Javascript to Typescript](https://www.learningtypescript.com/from-javascript-to-typescript#:~:text=Learning%20TypeScript%20%27s%20From%20JavaScript%20to%20TypeScript%20chapter,precise%20documentation%2C%20and%20stronger%20developer%20tooling%20More%20items)
+
+### Javascript
+
+-
+
+## Great Frameworks to learn
+
+- [Getting Started with Next.js](https://nextjs.org/learn/react-foundations?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
+-
+
+## Portfolio Sites
+
+- [25 Cool Example Sites](https://www.hostinger.com/tutorials/web-developer-portfolio)
+-
+
+## Misc
+
+- [Secrets in Node.js Apps](https://medium.com/codait/environment-variables-or-keeping-your-secrets-secret-in-a-node-js-app-99019dfff716)
+- [Prisma Object Relational Manager (ORM)](https://www.prisma.io/)
+- [Drizzle Object Relational Manager (ORM)](https://orm.drizzle.team/docs/overview)
+- [tRPC - Typescript Library for Leveraging Type Safety](https://trpc.io/)
+
 # Python Resources
+
+- [LearnPython Site](https://www.learnpython.org/)
+- [FreeCodeCamp: Python for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- ['Real Python' Tutorials](https://realpython.com/)
+- [Python Tutor Online Compiler](https://pythontutor.com/python-compiler.html#mode=edit)
+- [Webscraping Tutorial 2024](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+
+## Demos
 
 Coming Soon...
 
@@ -59,24 +152,69 @@ Coming Soon...
 
 # Using ChatGPT Correctly
 
-Coming Soon...
+- [Open AI Cookbook](https://cookbook.openai.com/)
+-
 
 # AI/ML Resources
+
+## General Resources
+
+- [Geeks for Geeks 100 days of ML](https://www.geeksforgeeks.org/100-days-of-machine-learning/)
+- [FreeCodeCamp: Python for ML](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
+## Natural Language Processing (NLP)
+
+- [NLTK Book](https://www.nltk.org/book/)
+
+# Java Resources
+
+- [Python Tutor Online Java Compiler](https://pythontutor.com/java.html#mode=edit)
+
+# SQL Resources
+
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
+- [FreeCodeCamp: Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)
+
+# C# and .NET Resources
 
 Coming Soon...
 
 # Youtube Channels
 
-Coming Soon...
+**General, All Encompassing Coding Tutorials**
 
-# Java Resources
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
+- [Jacob Sorber](https://www.youtube.com/@JacobSorber/videos)
+- [Coding Entrepreneurs](https://www.youtube.com/@CodingEntrepreneurs)
+- [CodeWithChris](https://www.youtube.com/@CodeWithChris)
 
-Coming Soon...
+**Web App Development**
 
-# Learning Sites & Platforms
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Adrian Twarog](https://www.youtube.com/@AdrianTwarog)
+- [Theo - T3.gg](https://www.youtube.com/@t3dotgg)
+
+**Mathematics**
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Professor Dave Explains: Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8)
+- [Stat Quest](https://www.youtube.com/@statquest)
+- [Stanford Online](https://www.youtube.com/@stanfordonline)
+- [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)
+
+# Learning Platforms
 
 Coming Soon...
 
 # Great Reads
 
 Coming Soon...
+
+# Generally Helpful Sites
+
+- [Find DevTools](https://finddev.tools/)
+  - This website quite literally has every resource you could possible image or want as a developer / engineer. Quite honestly I forgot I even had this bookmarked until I started working on this list, be sure to go check it out!
+- [Medium Articles](https://medium.com/)
+- [Stack Overflow](https://stackoverflow.com/)
