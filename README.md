@@ -8,6 +8,7 @@
   - [About Me](#about-me)
 - [Firstly, Git](#firstly-git)
   - [Git Resources](#git-resources)
+  - [Demos](#demos)
 - [OA / Tech Interview Prep](#oa--tech-interview-prep)
   - [Leetcode!!](#leetcode)
   - [Kattis](#kattis)
@@ -22,6 +23,7 @@
   - [Portfolio Sites](#portfolio-sites)
   - [Misc](#misc)
 - [Python Resources](#python-resources)
+  - [Demos](#demos-1)
 - [Math Resources](#math-resources)
 - [Using ChatGPT Correctly](#using-chatgpt-correctly)
 - [AI/ML Resources](#aiml-resources)
@@ -66,6 +68,10 @@ If you click the link below, you will be directed to a file I created with some 
 **[Important Git Links](Version%20Control/Git/git-links.md)**
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
+
+## Demos
+
+Coming Soon...
 
 # OA / Tech Interview Prep
 
@@ -130,7 +136,15 @@ I cannot stress the importance of git enough, please take your time to learn and
 
 # Python Resources
 
+- [LearnPython Site](https://www.learnpython.org/)
+- [FreeCodeCamp: Python for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- ['Real Python' Tutorials](https://realpython.com/)
+- [Python Tutor Online Compiler](https://pythontutor.com/python-compiler.html#mode=edit)
 - [Webscraping Tutorial 2024](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+
+## Demos
+
+Coming Soon...
 
 # Math Resources
 
@@ -154,7 +168,7 @@ Coming Soon...
 
 # Java Resources
 
-Coming Soon...
+- [Python Tutor Online Java Compiler](https://pythontutor.com/java.html#mode=edit)
 
 # SQL Resources
 
@@ -167,7 +181,28 @@ Coming Soon...
 
 # Youtube Channels
 
-Coming Soon...
+**General, All Encompassing Coding Tutorials**
+
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
+- [Jacob Sorber](https://www.youtube.com/@JacobSorber/videos)
+- [Coding Entrepreneurs](https://www.youtube.com/@CodingEntrepreneurs)
+- [CodeWithChris](https://www.youtube.com/@CodeWithChris)
+
+**Web App Development**
+
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Adrian Twarog](https://www.youtube.com/@AdrianTwarog)
+- [Theo - T3.gg](https://www.youtube.com/@t3dotgg)
+
+**Mathematics**
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Professor Dave Explains: Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8)
+- [Stat Quest](https://www.youtube.com/@statquest)
+- [Stanford Online](https://www.youtube.com/@stanfordonline)
+- [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)
 
 # Learning Platforms
 
