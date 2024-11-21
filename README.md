@@ -3,6 +3,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<a name="top"></a>
+
 - [CSSE Survival Kit](#csse-survival-kit)
 - [Overview](#overview)
   - [About Me](#about-me)
@@ -51,6 +53,12 @@ Hi! My name is Tyler Teufel, and, at the time that I am writing this, I am a Sen
 
 The only knowledge I came to Auburn with was whatever I was able to learn in AP Computer Science A amidst the 2020 pandemic my junior year in High School, so I can safely say that everything I include here is coming straight from the experience of your average CSSE student.
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
+<!-- **( [Back to top](#csse-survival-kit) )** -->
+
 # Firstly, Git
 
 **So I know GitHub, but why git?**
@@ -61,6 +69,10 @@ Git is without a doubt one of the most crucial skills to have when you go into t
 
 Even if you feel like you know GitHub, its crucial to make sure you know Git. Thats how I was a few years ago.
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 ## Git Resources
 
 If you click the link below, you will be directed to a file I created with some concise instructions on where to install Git on your machine, as well as links to some really helpful videos and websites (including the official git guide) to help you get ramped up!
@@ -69,9 +81,17 @@ If you click the link below, you will be directed to a file I created with some 
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 ## Demos
 
 Coming Soon...
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # OA / Tech Interview Prep
 
@@ -84,11 +104,14 @@ Coming Soon...
 
 - [Kattis Problems](https://open.kattis.com/)
 - [A guide to Kattis Problems](https://mwermelinger.github.io/kattis-guide/)
--
 
 ## Other Sites
 
 - [FreeCodeCamp: Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # Web App Development
 
@@ -134,6 +157,10 @@ Coming Soon...
 - [Drizzle Object Relational Manager (ORM)](https://orm.drizzle.team/docs/overview)
 - [tRPC - Typescript Library for Leveraging Type Safety](https://trpc.io/)
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # Python Resources
 
 - [LearnPython Site](https://www.learnpython.org/)
@@ -142,18 +169,33 @@ Coming Soon...
 - [Python Tutor Online Compiler](https://pythontutor.com/python-compiler.html#mode=edit)
 - [Webscraping Tutorial 2024](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 ## Demos
 
 Coming Soon...
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # Math Resources
 
 Coming Soon...
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # Using ChatGPT Correctly
 
 - [Open AI Cookbook](https://cookbook.openai.com/)
--
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # AI/ML Resources
 
@@ -166,18 +208,34 @@ Coming Soon...
 
 - [NLTK Book](https://www.nltk.org/book/)
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # Java Resources
 
 - [Python Tutor Online Java Compiler](https://pythontutor.com/java.html#mode=edit)
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # SQL Resources
 
 - [MySQL Tutorial](https://www.mysqltutorial.org/)
 - [FreeCodeCamp: Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # C# and .NET Resources
 
 Coming Soon...
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # Youtube Channels
 
@@ -204,13 +262,25 @@ Coming Soon...
 - [Stanford Online](https://www.youtube.com/@stanfordonline)
 - [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # Learning Platforms
 
 Coming Soon...
 
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
+
 # Great Reads
 
 Coming Soon...
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
 
 # Generally Helpful Sites
 
@@ -218,3 +288,7 @@ Coming Soon...
   - This website quite literally has every resource you could possible image or want as a developer / engineer. Quite honestly I forgot I even had this bookmarked until I started working on this list, be sure to go check it out!
 - [Medium Articles](https://medium.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+
+<a href="#csse-survival-kit">
+  <img src="/assets/image.png" alt="Return to Top" width="25" height="25">
+</a>
