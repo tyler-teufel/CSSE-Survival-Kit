@@ -54,10 +54,9 @@ Hi! My name is Tyler Teufel, and, at the time that I am writing this, I am a Sen
 The only knowledge I came to Auburn with was whatever I was able to learn in AP Computer Science A amidst the 2020 pandemic my junior year in High School, so I can safely say that everything I include here is coming straight from the experience of your average CSSE student.
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
+  
 </a>
-
-<!-- **( [Back to top](#csse-survival-kit) )** -->
 
 # Firstly, Git
 
@@ -70,7 +69,7 @@ Git is without a doubt one of the most crucial skills to have when you go into t
 Even if you feel like you know GitHub, its crucial to make sure you know Git. Thats how I was a few years ago.
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 ## Git Resources
@@ -82,7 +81,7 @@ If you click the link below, you will be directed to a file I created with some 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 ## Demos
@@ -90,7 +89,7 @@ I cannot stress the importance of git enough, please take your time to learn and
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # OA / Tech Interview Prep
@@ -110,7 +109,7 @@ Coming Soon...
 - [FreeCodeCamp: Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Web App Development
@@ -158,7 +157,7 @@ Coming Soon...
 - [tRPC - Typescript Library for Leveraging Type Safety](https://trpc.io/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Python Resources
@@ -170,7 +169,7 @@ Coming Soon...
 - [Webscraping Tutorial 2024](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 ## Demos
@@ -178,7 +177,7 @@ Coming Soon...
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Math Resources
@@ -186,7 +185,7 @@ Coming Soon...
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Using ChatGPT Correctly
@@ -194,7 +193,7 @@ Coming Soon...
 - [Open AI Cookbook](https://cookbook.openai.com/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # AI/ML Resources
@@ -209,7 +208,7 @@ Coming Soon...
 - [NLTK Book](https://www.nltk.org/book/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Java Resources
@@ -217,7 +216,7 @@ Coming Soon...
 - [Python Tutor Online Java Compiler](https://pythontutor.com/java.html#mode=edit)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # SQL Resources
@@ -226,7 +225,7 @@ Coming Soon...
 - [FreeCodeCamp: Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # C# and .NET Resources
@@ -234,7 +233,7 @@ Coming Soon...
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Youtube Channels
@@ -263,7 +262,7 @@ Coming Soon...
 - [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Learning Platforms
@@ -271,7 +270,7 @@ Coming Soon...
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Great Reads
@@ -279,7 +278,7 @@ Coming Soon...
 Coming Soon...
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
 # Generally Helpful Sites
@@ -290,5 +289,5 @@ Coming Soon...
 - [Stack Overflow](https://stackoverflow.com/)
 
 <a href="#csse-survival-kit">
-  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25">
+  <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
