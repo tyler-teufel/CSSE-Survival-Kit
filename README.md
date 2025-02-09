@@ -76,7 +76,7 @@ Even if you feel like you know GitHub, its crucial to make sure you know Git. Th
 
 If you click the link below, you will be directed to a file I created with some concise instructions on where to install Git on your machine, as well as links to some really helpful videos and websites (including the official git guide) to help you get ramped up!
 
-**[Important Git Links](Version%20Control/Git/git-links.md)**
+**[Important Git Links](topics/version-control/Git/git-links.md)**
 
 I cannot stress the importance of git enough, please take your time to learn and understand this while still a student!
 
