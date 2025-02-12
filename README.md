@@ -275,7 +275,7 @@ Coming Soon...
 
 # Great Reads
 
-## Miscelaneous Topics
+ ** Miscelaneous Topics **
 
 - [Software Versioning: Everything You Need to Know](https://medium.com/@CGS-team/software-versioning-everything-you-need-to-know-ee0377487a04)
 
