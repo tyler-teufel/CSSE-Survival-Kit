@@ -275,7 +275,9 @@ Coming Soon...
 
 # Great Reads
 
-Coming Soon...
+## Miscelaneous Topics
+
+- [Software Versioning: Everything You Need to Know](https://medium.com/@CGS-team/software-versioning-everything-you-need-to-know-ee0377487a04)
 
 <a href="#csse-survival-kit">
   <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
