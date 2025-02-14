@@ -37,7 +37,7 @@
 - [Youtube Channels](#youtube-channels)
 - [Learning Platforms](#learning-platforms)
 - [Great Reads](#great-reads)
-- [Generally Helpful Sites](#generally-helpful-sites)
+- [Generally Helpful Sites](#generally-helpful-and-Cool-sites)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -283,12 +283,19 @@ Coming Soon...
   <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
 </a>
 
-# Generally Helpful Sites
+# Generally Helpful and Cool Sites
+
+**Old Faithfuls:**
 
 - [Find DevTools](https://finddev.tools/)
   - This website quite literally has every resource you could possible image or want as a developer / engineer. Quite honestly I forgot I even had this bookmarked until I started working on this list, be sure to go check it out!
 - [Medium Articles](https://medium.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+
+**Powerful AI Sites:**
+
+- [Napkin.ai](https://app.napkin.ai)
+
 
 <a href="#csse-survival-kit">
   <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
