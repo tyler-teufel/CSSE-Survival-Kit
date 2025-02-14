@@ -37,7 +37,7 @@
 - [Youtube Channels](#youtube-channels)
 - [Learning Platforms](#learning-platforms)
 - [Great Reads](#great-reads)
-- [Generally Helpful Sites](#generally-helpful-and-Cool-sites)
+- [Generally Helpful and Cool Sites](#generally-helpful-and-Cool-sites)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
