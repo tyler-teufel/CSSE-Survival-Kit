@@ -21,6 +21,7 @@
     - [CSS \& Overall Styling](#css--overall-styling)
     - [Typescript (!!)](#typescript-)
     - [Javascript](#javascript)
+  - [UI/UX Design Tools](#design-tools)
   - [Great Frameworks to learn](#great-frameworks-to-learn)
   - [Portfolio Sites](#portfolio-sites)
   - [Misc](#misc)
@@ -138,6 +139,11 @@ Coming Soon...
 ### Javascript
 
 -
+
+## Design Tools
+
+- [Penpot (Free + Open Sourced)](https://penpot.app)
+- [Figma](https://www.figma.com)
 
 ## Great Frameworks to learn
 
