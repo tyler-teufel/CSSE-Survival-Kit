@@ -161,6 +161,7 @@ Coming Soon...
 - [Prisma Object Relational Manager (ORM)](https://www.prisma.io/)
 - [Drizzle Object Relational Manager (ORM)](https://orm.drizzle.team/docs/overview)
 - [tRPC - Typescript Library for Leveraging Type Safety](https://trpc.io/)
+- [uiverse.io Open Source UI Library](https://uiverse.io)
 
 <a href="#csse-survival-kit">
   <img src="/assets/goback2.png" alt="Return to Top" width="25" height="25"> Back to top
